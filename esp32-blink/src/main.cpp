@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-#define LED 2
+uint8_t LED = 4;
 
 void setup() {
   // put your setup code here, to run once:
