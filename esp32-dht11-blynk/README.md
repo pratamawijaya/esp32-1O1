@@ -3,5 +3,6 @@
 
 # Result 
 ![](images/result.jpg)
+![](images/result_oled.jpg)
 
 ![](images/app.jpg)
